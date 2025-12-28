@@ -43,3 +43,6 @@ You need Python installed on your machine.
 3. Select a **Category** (e.g., "Food").
 4. Click **Add Expense**.
 5. View the updates in the table and the chart below.
+
+
+**Pull Requests and Issues are welcomed :)**
