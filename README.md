@@ -38,8 +38,8 @@ You need Python installed on your machine.
 
 ## Usage
 
-                        1. Enter an **Item Name** (e.g., "Lunch").
-                        2. Enter the **Amount** in dollars.
-                        3. Select a **Category** (e.g., "Food").
-                        4. Click **Add Expense**.
-                        5. View the updates in the table and the chart below.
+1. Enter an **Item Name** (e.g., "Lunch").
+2. Enter the **Amount** in dollars.
+3. Select a **Category** (e.g., "Food").
+4. Click **Add Expense**.
+5. View the updates in the table and the chart below.
