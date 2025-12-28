@@ -25,7 +25,7 @@ You need Python installed on your machine.
             `# Mac/Linux`
                `source venv/bin/activate`
 
-               3. **Install Dependencies**:
+3. **Install Dependencies**:
                   Run the following command in your terminal to install Streamlit and Pandas:
                      `pip install -r requirements.txt`
 
