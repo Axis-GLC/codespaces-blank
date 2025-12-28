@@ -31,10 +31,10 @@ You need Python installed on your machine.
 
 ## How to Run
 
-                     1. Open your terminal/command prompt in the project folder.
-                     2. Run the app using this command:
+1. Open your terminal/command prompt in the project folder.
+2. Run the app using this command:
                         `streamlit run app.py`
-                        3. The application will open automatically in your default web browser (usually at `http://localhost:8501`).
+3. The application will open automatically in your default web browser (usually at `http://localhost:8501`).
 
 ## Usage
 
